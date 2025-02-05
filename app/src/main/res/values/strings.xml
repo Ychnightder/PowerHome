@@ -10,7 +10,7 @@
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
     <string name="beaucoup">"Beaucoup"</string>
-    <string name="connexion">Connexion</string>
+    <string name="connexion" translatable="false">Connexion</string>
     <string name="email">Email :</string>
     <string name="mot_de_passe">Mot de passe</string>
     <string name="connexion_inscription">Connexion / Inscription</string>
