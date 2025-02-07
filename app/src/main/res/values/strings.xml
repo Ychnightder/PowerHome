@@ -7,6 +7,28 @@
     <string name="action_sign_in_short">Connexion</string>
     <string name="welcome">Bienvenue</string>
     <string name="email">Email :</string>
-    <string name="mot_de_passe">Mot de passe</string>
     <string name="connexion_inscription">Connexion / Inscription</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="cree_un_compte">CREE UN COMPTE</string>
+    <string name="se_connecter_avec_facebook">Se connecter avec Facebook</string>
+    <string name="connectez_vous">CONNECTEZ-VOUS</string>
+    <string name="pr_nom">Prénom</string>
+    <string name="cr_er_un_compte">Créer un compte</string>
+    <string name="creer_un_nouveau_compte">Creer un nouveau compte</string>
+    <string name="nom">Nom</string>
+    <string name="e_mail">E-mail</string>
+    <string name="mobile">Mobile</string>
+    <string name="valider">VALIDER</string>
+    <string name="se_connecter">Se connecter</string>
+
+
+    <string-array name="country_codes">
+        <item> +33 </item>
+        <item> +34 </item>
+        <item> +1 </item>
+        <item> +7 </item>
+        <item> +48 </item>
+        <item> +44 </item>
+    </string-array>
+
 </resources>

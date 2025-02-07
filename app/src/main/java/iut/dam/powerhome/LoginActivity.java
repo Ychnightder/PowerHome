@@ -1,7 +1,9 @@
 package iut.dam.powerhome;
 
+import android.content.Intent;
 import android.os.Bundle;
-import android.widget.TextView;
+import android.view.View;
+import android.widget.Button;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -22,7 +24,14 @@ public class LoginActivity extends AppCompatActivity {
             return insets;
         });
 
-
+        Button inscriotion = findViewById(R.id.buttonInscription);
+        inscriotion.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(LoginActivity.this, RegisterActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
 
