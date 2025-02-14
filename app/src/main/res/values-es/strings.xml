@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectez_vous">Iniciar sesión</string>
+    <string name="email">Correo electrónico</string>
+    <string name="mot_de_passe">Contraseña :</string>
+    <string name="mot_de_passe_oubli">¿Olvidaste tu contraseña?</string>
+    <string name="se_connecter">Iniciar sesión</string>
+    <string name="s_inscrire">Registrarse</string>
+    <string name="app_name">PowerHome</string>
+</resources>
