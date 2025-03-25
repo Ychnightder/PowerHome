@@ -17,4 +17,12 @@
     <string name="se_connecter">se_connecter</string>
     <string name="s_inscrire">S\'inscrire</string>
     <string name="app_name">PowerHome</string>
+    <string name="cr_er_un_compte">Creé un compte</string>
+    <string name="pr_nom">Prenom\n</string>
+    <string name="nom">Nom</string>
+    <string name="mobile">Numero de telephone</string>
+    <string name="valider">Valider</string>
+    <string name="nouveau_mot_au_passe">Nouveau Mot au passe :</string>
+    <string name="confirmer_le_nouveau_mot_de_passe">Confirmer le nouveau mot de passe :</string>
+    <string name="retour">Retour</string>
 </resources>

@@ -94,7 +94,7 @@
                     android:layout_height="48dp"
                     android:layout_marginStart="10dp"
                     android:layout_weight="1"
-                    android:hint="@string/e_mail"
+                    android:hint="@string/email"
                     android:inputType="text"
                     android:textColor="#7B595555" />
             </LinearLayout>

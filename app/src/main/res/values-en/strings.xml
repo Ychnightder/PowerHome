@@ -7,4 +7,9 @@
     <string name="se_connecter">" Log In"</string>
     <string name="s_inscrire">Sign Up</string>
     <string name="app_name">PowerHome</string>
+    <string name="cr_er_un_compte">Create an Account</string>
+    <string name="pr_nom">"Firstname "</string>
+    <string name="nom">Name</string>
+    <string name="mobile">Phone Number</string>
+    <string name="valider">Valider</string>
 </resources>
